@@ -1,4 +1,4 @@
-from agricultura1 import ProducaoAgricola
+from ProducaoAgricola.agricultura1 import ProducaoAgricola
 
 frutas = {
     1: ("Manga", 1.85, 2500),
